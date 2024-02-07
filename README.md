@@ -59,7 +59,7 @@ Download https://drive.google.com/file/d/1FN5Nbfv1RQ5-H-qW_bmVI-t2w-_DKHts/view?
 #### Preprocessing dataset
     python preprocess.py --input_dir "path_to_input_dir"
 #### Training, testing
-<pre><code>python run_all.py --config "path_to_config" </code></pre>
+<pre><code>python run_all.py --config configs/inmc/nfl_example/norm_kappa_ber_fixate.py </code></pre>
 
 #### Pointcloud(ply) conversion
 <pre><code>python tools/vis_volume.py "path to scene_mesh.npz" "threshold[0, 1]" </code></pre>

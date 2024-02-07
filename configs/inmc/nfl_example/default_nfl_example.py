@@ -3,7 +3,7 @@ _base_ = '../../default.py'
 basedir = './logs/nfl_example'
 
 data = dict(
-    datadir='data/dex_nerf_example/images_processed',
+    datadir='data/nfl_example_dataset',
     dataset_type='inmc',
     white_bkgd=False,
     near_far=[0.1, 2], # - for real
