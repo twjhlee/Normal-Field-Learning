@@ -1,13 +1,7 @@
 # Normal Field Learning
 
-## Torch installation - python 3.8 recommended
-### Conda
-#### Pytorch installation
-    conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
-    conda install -c "nvidia/label/cuda-11.8.0" cuda
-    conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
-####
-    conda install pytorch-scatter -c pyg
+## Torch installation
+### python 3.8 recommended, Choose one of the following cuda versions
 
 ### CUDA 11.3
 #### Pytorch installation
