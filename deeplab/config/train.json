@@ -1,0 +1,11 @@
+{
+    "dataset_dir": "/home/twjhlee/Data/RGB2Normal/clearpose_new/train/ClearPose_orig/*/*",
+    "output_mod": "mask",
+    "ckpt": "maskDEBUG",
+    "val_freq": 1,
+    "batch_size": 24,
+    "num_workers": 0,
+    "num_epochs": 30,
+    "img_size": 480,
+    "log_img_cnt": 5
+}

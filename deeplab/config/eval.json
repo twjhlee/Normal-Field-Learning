@@ -1,0 +1,11 @@
+{
+    "imgs": "../Realsense_calibration/0131_2210/*-color.png",
+    "ckpt_path": "checkpoints/ckpts_mask_newsplit0103.pt",
+    "outdir": "../Realsense_calibration/0131_2210",
+    "batch_size": 4,
+    "num_workers": 0,
+    "img_size": 480,
+    "output_mod": "mask",
+    "return_pose": false,
+    "augmentation": true
+}
