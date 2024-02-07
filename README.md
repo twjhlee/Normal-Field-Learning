@@ -33,7 +33,7 @@
 
 ## Common installation
 #### DVGO installation
-    git@github.com:twjhlee/Normal-Field-Learning.git
+    git clone git@github.com:twjhlee/Normal-Field-Learning.git
     pip install -r requirements.txt
 
 #### OpenEXR installation
