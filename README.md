@@ -1,4 +1,7 @@
 # Normal Field Learning
+<p align="center">
+  <img src="NFL_overview.png" title="overview">
+</p>
 
 ## Torch installation
 ### python 3.8 recommended, Choose one of the following cuda versions
